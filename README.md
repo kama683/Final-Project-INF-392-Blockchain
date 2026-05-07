@@ -50,31 +50,6 @@ The system gives users:
 
 ---
 
-## 🖼️ Screenshots
-
-### Landing Page
-![Landing Page](./screenshots/01-landing.png)
-
-### User Registration
-![Registration](./screenshots/02-registration.png)
-
-### Main Dashboard
-![Dashboard](./screenshots/03-dashboard.png)
-
-### Buy / Sell / Transfer
-![Trading Interface](./screenshots/04-trading.png)
-
-### Owner Panel
-![Owner Panel](./screenshots/05-owner-panel.png)
-
-### Transaction History
-![Transaction History](./screenshots/06-history.png)
-
-### QR Code Modal
-![QR Modal](./screenshots/07-qr-modal.png)
-
-### MetaMask Confirmation
-![MetaMask](./screenshots/08-metamask.png)
 
 > 📁 Place all screenshots in the `/screenshots/` folder at the project root.
 
