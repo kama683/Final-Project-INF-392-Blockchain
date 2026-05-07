@@ -1,4 +1,4 @@
-# 🏋️ Gym Coin — Decentralized Gym Credit System
+#  Gym Coin — Decentralized Gym Credit System
 
 A blockchain-based credit token system for a network of fitness centers, built on Ethereum. Users can buy, sell, and transfer their gym credits across any branch in the network — all secured by smart contracts on the Sepolia test network.
 
